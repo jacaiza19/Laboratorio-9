@@ -1,1 +1,26 @@
 # Laboratorio-9
+![image](https://user-images.githubusercontent.com/116772752/219433029-5e0f1f6c-c7e9-4be0-976f-b7ec0dddde05.png)
+
+UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
+
+ASIGNATURA:
+
+FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS
+
+INGENIERO:
+
+DARWIN ALULEMA
+
+ESTUDIANTES:
+
+Lema Kevin
+
+Caiza Alejandro
+
+Llerena Jorge
+
+TEMA DEL LABORATORIO:
+
+FASORES
+
+FECHA: 02 de Marzo de 2023
