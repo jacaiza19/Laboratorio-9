@@ -44,8 +44,8 @@ FECHA: 02 de Marzo de 2023
 ![image](https://user-images.githubusercontent.com/116832991/222785228-ac3f97d7-96cf-475d-871f-fd8b236d7266.png)
 * 9.5.2 Sin emplear calculadora. Transforme a su forma rectangular:
 ![image](https://user-images.githubusercontent.com/116832991/222785270-57f7d94d-ef17-4577-8dbc-54fec8bb0f62.png)
-* 9.5.3. Sin emplear calculadora. Realice las siguientes operaciones paso a paso, y
-represente el resultado tanto en su forma rectangular como en su forma polar.
+* 9.5.3. Sin emplear calculadora. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
+
 ![image](https://user-images.githubusercontent.com/116832991/222785305-c908b95b-561e-4745-bc13-c2ab778ffb4a.png)
 ![image](https://user-images.githubusercontent.com/116832991/222785351-5a753e45-071e-422c-8b00-bdcbdf4f091e.png)
 
