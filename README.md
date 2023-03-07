@@ -48,6 +48,8 @@ FECHA: 02 de Marzo de 2023
 
 ![image](https://user-images.githubusercontent.com/116832991/222785305-c908b95b-561e-4745-bc13-c2ab778ffb4a.png)
 ![image](https://user-images.githubusercontent.com/116832991/222785351-5a753e45-071e-422c-8b00-bdcbdf4f091e.png)
+![image](https://user-images.githubusercontent.com/116832991/223520130-d29dc426-7629-4507-b7d7-d3c6f1896d20.png)
+
 
 * 4.5.1. Sin emplear calculadora. Transforme a su forma polar:
 ![image](https://user-images.githubusercontent.com/116832991/223515202-cb9916db-2967-424f-ae66-19c2c04c07c2.png)
