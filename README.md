@@ -51,9 +51,6 @@ FECHA: 02 de Marzo de 2023
 ![image](https://user-images.githubusercontent.com/116832991/223520130-d29dc426-7629-4507-b7d7-d3c6f1896d20.png)
 
 
-* 4.5.1. Sin emplear calculadora. Transforme a su forma polar:
-![image](https://user-images.githubusercontent.com/116832991/223515202-cb9916db-2967-424f-ae66-19c2c04c07c2.png)
-
 4. CONCLUSIONES:
 * Después de haber realizado el laboratorio, se llego a la conclusio nde que los calculos realizados a mano son diferentes a los realizados con la calculadora y por lo tanto se tiene que hacer una tabla donde marquen estas diferencias.
 * La teoria de conversio nde forma rectangular a forma polar es una de las maneras mas utiles ára comprender como funciona los diagramas fasoriales y esto ayuda a entender tambien el voltaje entre otras cosas .
